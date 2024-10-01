@@ -47,6 +47,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173]([http://localhost:5173](https://i-phone-clone-chi.vercel.app/)) in your browser to view the project.
+Open [http://localhost:5173](https://i-phone-clone-chi.vercel.app/) in your browser to view the project.
 
 
